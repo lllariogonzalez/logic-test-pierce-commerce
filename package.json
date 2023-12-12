@@ -1,0 +1,16 @@
+{
+  "name": "pierce-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findTheLostNumber.js",
+  "scripts": {
+    "start": "node findTheLostNumber.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
